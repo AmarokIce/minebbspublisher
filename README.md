@@ -57,8 +57,8 @@ publisherMineBBS {
   token = "******"                              // 这里需要您刚才取得的 API Token
   projectId = 114514                            // 作品 ID
   version = project.version                     // 更新后的版本，通常留作项目版本即可。
-  title = "Yes 册那！${project.version} 更新！"   // 日志标题。
-  description = "修复了狼没有凤梨的 Bug。"          // 日志正文。
+  title = "Yes 册那！${project.version} 更新！"  // 日志标题。
+  description = "修复了狼没有凤梨的 Bug。"        // 日志正文。
   url = "https://114.514.1919.810/"             // [可选] 更新后的 Url。此项如不填或留空，则进入文件模式。会自动编译与上传文件。
 }
 ```
